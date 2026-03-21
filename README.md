@@ -9,19 +9,16 @@ Nessa atividade, você deverá montar a página inicial do projeto escolhido, a 
 
 ## Informações Gerais
 
-- Nome:
-- Matricula:
-- Proposta de projeto escolhida:
-- Breve descrição sobre seu projeto:
+- Nome: Rafael Gomes Antunes De Oliveira
+- Matricula: 1629771
+- Proposta de projeto escolhida: Pontos turísticos da ficção
+- Breve descrição sobre seu projeto: Um projeto feito com o principal elemento sendo os pontos turisticos mais famosos da animação. Onde pode se encontrar detalhes, personagens e informações de cada lugar.
 
 
 ## Print do(s) wireframe(s) criado
-> Sugestão, use o Excalidraw para isso. Utilize esse [template básico](https://excalidraw.com/#json=LU-8hwcQEwzk11FwO8Opo,qPU9K6cNUEzlXzwOuKMIlQ) para você começar. 
-
-<<  COLOQUE A IMAGEM AQUI >>
-
+![printdoteste](public/IMG/Wireframe.png)
 
 
 ## Print da home-page criada
 
-<<  COLOQUE A IMAGEM AQUI >>
+![alt text](public/IMG/page.png)
